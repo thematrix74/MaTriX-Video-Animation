@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Large zip archives & extracted skill repos (exceeds GitHub limits)
+*.zip
+skills_extracted/
+.aistudio/
+
+# Local media renders & temporary outputs
+renders/
+out/
+*.webm
+*.tmp

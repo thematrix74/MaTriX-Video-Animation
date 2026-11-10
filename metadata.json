@@ -1,0 +1,6 @@
+{
+  "name": "Explainer & Cartoon Reels Studio",
+  "description": "استوديو متكامل لإنتاج فيديوهات الأنيميشن التعليمية وثلاثية الأبعاد والمقاطع القصيرة بأسلوب القطاعات التوضيحية والكارتون.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
